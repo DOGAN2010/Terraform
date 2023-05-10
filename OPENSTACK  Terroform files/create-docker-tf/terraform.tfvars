@@ -1,0 +1,5 @@
+openstack_user_name = "admin"
+openstack_tenant_name = "admin"
+openstack_password = "3JslywF7EfgRvp9UT9Y9lXlMybj0piH4t9sTISx6"
+openstack_auth_url = "http://192.168.1.126:35357/v3"
+public_key = "ssh-rsa AAAAB3NzaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxomPiyCw== cardno:000605009830"
